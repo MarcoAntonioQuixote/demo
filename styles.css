@@ -1,0 +1,9 @@
+.box {
+    border: solid red 2px;
+    width: 100px;
+    height: 100px;
+}
+
+.row {
+    display: flex;
+}
